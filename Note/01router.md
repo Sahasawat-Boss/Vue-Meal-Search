@@ -1,5 +1,7 @@
 # After npm i router
 
+- npm i vue-router@latest
+
 1.  update <router-view /> in App
 2. reate router folder and file in src
 3. Update main.js
